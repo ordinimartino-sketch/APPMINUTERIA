@@ -1,0 +1,261 @@
+linea_slug;nome_linea;conteggio;marchi;super_categoria
+acanto;Acanto;65;Geberit;Bagno e Sanitari
+accessori;Accessori;897;Geberit,Haier,Immergas;Ricambi e Accessori
+accessori-acqua-calda-sanitaria;Accessori Acqua Calda Sanitaria;172;Ariston;Acqua Calda Sanitaria
+accessori-riscaldamento-e-clima;Accessori Riscaldamento E Clima;257;Ariston;Riscaldamento e Caldaie
+acqua;Acqua;615;Ferrari;Tubazioni e Sistemi di Distribuzione
+adesivi;Adesivi;7;Fischer;Fissaggi e Utensili
+allacciamenti-acqua-gas;Allacciamenti Acqua/Gas;160;Ferrari;Raccorderia e Valvole
+allacciamenti-apparecchi;Allacciamenti apparecchi;75;Geberit;Bagno e Sanitari
+alta-potenza;Alta Potenza;42;Immergas;Riscaldamento e Caldaie
+altro;Altro;71;Immergas,RBM;Generico
+ancoranti-chimici;Ancoranti Chimici;80;Fischer;Fissaggi e Utensili
+ancoranti-metallici-ad-alte-prestazioni;Ancoranti Metallici Ad Alte Prestazioni;115;Fischer;Fissaggi e Utensili
+anticorrosione;Anticorrosione;81;Fimi;Trattamento Acqua
+applicazioni-industriale-inox;Applicazioni Industriale Inox;43;GBD;Riscaldamento e Caldaie
+apply-air;Apply Air;62;Tecnosystemi;Ventilazione e Trattamento Aria
+apply-co;Apply.Co;237;Tecnosystemi;Ventilazione e Trattamento Aria
+aquaclean;AquaClean;47;Geberit;Bagno e Sanitari
+articoli-fuori-listino-pdf;Articoli fuori listino PDF;90;Effebi;Generico
+attraversamento-tetto;Attraversamento Tetto;18;GBD;Riscaldamento e Caldaie
+attrezzatura;Attrezzatura;141;Viega;Fissaggi e Utensili
+attrezzatura-e-utensili;Attrezzatura E Utensili;33;RBM;Fissaggi e Utensili
+attrezzaura;Attrezzaura;953;Ferrari;Fissaggi e Utensili
+attrezzi;Attrezzi;142;Geberit;Fissaggi e Utensili
+bambini;Bambini;28;Geberit;Bagno e Sanitari
+bidet;Bidet;1;Geberit;Bagno e Sanitari
+bilanciamento-idraulico;Bilanciamento Idraulico;28;RBM;Riscaldamento e Caldaie
+bilanciamento-idronico;Bilanciamento Idronico;32;Giacomini;Riscaldamento e Caldaie
+bollitori;Bollitori;13;Immergas;Acqua Calda Sanitaria
+bollitori-e-fan-coil;Bollitori E Fan Coil;70;Ariston;Acqua Calda Sanitaria
+caldaia;Caldaia;547;Ferrari;Riscaldamento e Caldaie
+caldaie;Caldaie;79;Ariston,Immergas;Riscaldamento e Caldaie
+cassetta-di-risciacquo-da-incasso;Cassetta di risciacquo da incasso;44;Geberit;Bagno e Sanitari
+cassette-di-risciacquo-esterne;Cassette di risciacquo esterne;10;Geberit;Bagno e Sanitari
+ceramiche;Ceramiche;75;Grohe;Bagno e Sanitari
+citterio;Citterio;1;Geberit;Bagno e Sanitari
+climatizzatori;Climatizzatori;38;Immergas;Condizionamento e Climatizzazione
+climatizzazione;Climatizzazione;56;Ariston;Condizionamento e Climatizzazione
+coassiale-per-caminetti-a-gas;Coassiale per caminetti a gas;14;GBD;Riscaldamento e Caldaie
+coassiali-plastica;Coassiali Plastica;34;GBD;Riscaldamento e Caldaie
+colibri;Colibrì;14;Geberit;Bagno e Sanitari
+collettori-di-distribuzione;Collettori Di Distribuzione;450;Giacomini;Riscaldamento e Caldaie
+collettori-sanitari-componibili;Collettori Sanitari Componibili;33;Effebi;Riscaldamento e Caldaie
+comandi-per-orinatoi;Comandi per orinatoi;11;Geberit;Bagno e Sanitari
+combifix;Combifix;10;Geberit;Bagno e Sanitari
+combustibili;Combustibili;741;Ferrari;Riscaldamento e Caldaie
+comfort-climatico-accessori-sistemi-rad;Comfort Climatico-Accessori Sistemi Rad.;72;RBM;Riscaldamento e Caldaie
+comfort-climatico-cassette-contenimento;Comfort Climatico-Cassette Contenimento;28;RBM;Riscaldamento e Caldaie
+comfort-climatico-collettori;Comfort Climatico-Collettori;170;RBM;Riscaldamento e Caldaie
+comfort-climatico-gruppi-miscelazione;Comfort Climatico-Gruppi Miscelazione;83;RBM;Riscaldamento e Caldaie
+comfort-climatico-panello-isolante-secco;Comfort Climatico-Panello Isolante Secco;8;RBM;Riscaldamento e Caldaie
+comfort-climatico-pannelli-isolanti;Comfort Climatico-Pannelli Isolanti;65;RBM;Riscaldamento e Caldaie
+comfort-climatico-tubazioni;Comfort Climatico-Tubazioni;35;RBM;Riscaldamento e Caldaie
+commerciale;Commerciale;979;Daikin;Condizionamento e Climatizzazione
+commerciale-r32;Commerciale R32;63;Haier;Condizionamento e Climatizzazione
+componenti-arredo-bagno-e-accessori;Componenti Arredo Bagno E Accessori;130;Ferrari;Bagno e Sanitari
+componenti-centr-term-distribuz-a-zone;Componenti Centr.Term/Distribuz.A Zone;289;Giacomini;Riscaldamento e Caldaie
+componenti-di-controllo-e-sicurezza;Componenti Di Controllo E Sicurezza;50;RBM;Riscaldamento e Caldaie
+condizionamento;Condizionamento;1700;Ferrari,Serravalle Copper Tubes,Tecnogas;Condizionamento e Climatizzazione
+contab-diretta-energia-consumi-idrici;Contab.Diretta Energia/Consumi Idrici;118;Giacomini;Riscaldamento e Caldaie
+contabilizzazione-diretta;Contabilizzazione Diretta;107;RBM;Riscaldamento e Caldaie
+contabilizzazione-indiretta;Contabilizzazione Indiretta;24;RBM;Riscaldamento e Caldaie
+corpi-incasso;Corpi Incasso;24;Grohe;Bagno e Sanitari
+distribuzione-centrale;Distribuzione Centrale;41;RBM;Tubazioni e Sistemi di Distribuzione
+distribuzione-per-impianti-acqua-e-gas;Distribuzione Per Impianti Acqua E Gas;329;RBM;Tubazioni e Sistemi di Distribuzione
+distribuzione-radiatori-e-fancoil;Distribuzione Radiatori E Fancoil;124;RBM;Riscaldamento e Caldaie
+distribuzione-sanitaria;Distribuzione Sanitaria;31;RBM;Tubazioni e Sistemi di Distribuzione
+docce;Docce;167;Geberit;Bagno e Sanitari
+doccia-e-accessori;Doccia E Accessori;569;Grohe;Bagno e Sanitari
+doppia-parete-coiben-lana-minerale-inox;Doppia Parete Coiben. Lana Minerale Inox;739;GBD;Riscaldamento e Caldaie
+doppia-parete-coibentato-aria-inox;Doppia Parete Coibentato Aria Inox;366;GBD;Riscaldamento e Caldaie
+doppia-parete-coibentato-aria-plastica;Doppia Parete Coibentato Aria Plastica;36;GBD;Riscaldamento e Caldaie
+duofix;Duofix;73;Geberit;Bagno e Sanitari
+easytop;Easytop;79;Viega;Tubazioni e Sistemi di Distribuzione
+eden;Eden;22;Toshiba;Condizionamento e Climatizzazione
+efficientamento-energetico;Efficientamento Energetico;7;RBM;Riscaldamento e Caldaie
+elettrico;Elettrico;61;Ferrari;Elettrico e Fotovoltaico
+estia;Estia;138;Toshiba;Condizionamento e Climatizzazione
+fantasia;Fantasia;15;Geberit;Bagno e Sanitari
+fernox;Fernox;42;Fimi;Trattamento Acqua
+fissaggi-leggeri;Fissaggi Leggeri;27;Fischer;Fissaggi e Utensili
+fissaggi-per-idrotermosanitari;Fissaggi Per Idrotermosanitari;104;Fischer;Fissaggi e Utensili
+fissaggi-per-isolamento;Fissaggi Per Isolamento;28;Fischer;Fissaggi e Utensili
+fissaggi-per-lastre-e-soffitti;Fissaggi Per Lastre E Soffitti;40;Fischer;Fissaggi e Utensili
+fissaggi-per-materiali-elettrici;Fissaggi Per Materiali Elettrici;59;Fischer;Fissaggi e Utensili
+fissaggi-prolungati;Fissaggi Prolungati;20;Fischer;Fissaggi e Utensili
+fissaggi-universali;Fissaggi Universali;84;Fischer;Fissaggi e Utensili
+flowfit;FlowFit;373;Geberit;Tubazioni e Sistemi di Distribuzione
+fonterra;Fonterra;81;Viega;Tubazioni e Sistemi di Distribuzione
+fotovoltaico;Fotovoltaico;77;Haier,Immergas;Elettrico e Fotovoltaico
+fumisteria;Fumisteria;92;Tecnogas;Riscaldamento e Caldaie
+fv-power;FV Power;85;Tecnosystemi;Elettrico e Fotovoltaico
+galaxy;Galaxy;165;Tecnosystemi;Ventilazione e Trattamento Aria
+generica;Generica;97;Caleffi,Effebi,Fischer,GBD;Generico
+generico;Generico;48;Ariston,Daikin,Ferrari,Fimi,Giacomini,Haier,Tecnogas,Toshiba,Valsir;Generico
+hidrobox;Hidrobox;209;Tece;Bagno e Sanitari
+icon;Icon;176;Geberit;Bagno e Sanitari
+idrocosmotek-addolcimento;Idrocosmotek Addolcimento;37;Fimi;Trattamento Acqua
+idrocosmotek-affinatori-osmosi-debatter;Idrocosmotek Affinatori-Osmosi-Debatter.;11;Fimi;Trattamento Acqua
+idrocosmotek-attrezzature;Idrocosmotek Attrezzature;3;Fimi;Fissaggi e Utensili
+idrocosmotek-condizionamento-chimico;Idrocosmotek Condizionamento Chimico;30;Fimi;Trattamento Acqua
+idrocosmotek-disincrostanti;Idrocosmotek Disincrostanti;8;Fimi;Trattamento Acqua
+idrocosmotek-dosaggio;Idrocosmotek Dosaggio;40;Fimi;Trattamento Acqua
+idrocosmotek-filtrazione;Idrocosmotek Filtrazione;54;Fimi;Trattamento Acqua
+idrocosmotek-kit-analisi-e-ausiliari;Idrocosmotek Kit Analisi E Ausiliari;11;Fimi;Trattamento Acqua
+idrocosmotek-prodotti-per-piscine;Idrocosmotek Prodotti Per Piscine;2;Fimi;Trattamento Acqua
+idrotermosanitaria;Idrotermosanitaria;68;Serravalle Copper Tubes;Raccorderia e Valvole
+idrotermosanitario;Idrotermosanitario;3354;Caleffi;Raccorderia e Valvole
+indoor-climate-solutions;Indoor Climate Solutions;448;Wavin;Tubazioni e Sistemi di Distribuzione
+isolamento;Isolamento;463;Fimi;Riscaldamento e Caldaie
+lavabi;Lavabi;3;Geberit;Bagno e Sanitari
+light-commercial;Light Commercial;157;Toshiba;Condizionamento e Climatizzazione
+loctite;Loctite;26;Fimi;Fissaggi e Utensili
+mapress-acciaio-al-carbonio;Mapress acciaio al carbonio;251;Geberit;Tubazioni e Sistemi di Distribuzione
+mapress-acciaio-inox;Mapress Acciaio Inox;513;Geberit;Tubazioni e Sistemi di Distribuzione
+mapress-cunife;Mapress CuNiFe;134;Geberit;Tubazioni e Sistemi di Distribuzione
+mapress-rame;Mapress Rame;95;Geberit;Tubazioni e Sistemi di Distribuzione
+megapress;Megapress;237;Viega;Tubazioni e Sistemi di Distribuzione
+megapress-g;Megapress G;81;Viega;Tubazioni e Sistemi di Distribuzione
+megapress-s;Megapress S;69;Viega;Tubazioni e Sistemi di Distribuzione
+mepla;Mepla;26;Geberit;Tubazioni e Sistemi di Distribuzione
+mobili-per-bagno;Mobili per Bagno;5;Geberit;Bagno e Sanitari
+moduli-di-installazione;Moduli Di Installazione;45;Grohe;Bagno e Sanitari
+moduli-utenza;Moduli Utenza;47;RBM;Riscaldamento e Caldaie
+monolith;Monolith;34;Geberit;Bagno e Sanitari
+monop-e-doppiap-sistemi-legna-pellet;Monop. e Doppiap. Sistemi Legna/Pellet;118;GBD;Riscaldamento e Caldaie
+monoparete-rigido-e-flessibile-inox;Monoparete Rigido e Flessibile Inox;658;GBD;Riscaldamento e Caldaie
+monoparete-rigido-e-flessibile-plastica;Monoparete Rigido e Flessibile Plastica;180;GBD;Riscaldamento e Caldaie
+more;More;14;RBM;Ricambi e Accessori
+nastri;Nastri;2;Fischer;Fissaggi e Utensili
+one;One;102;Geberit;Bagno e Sanitari
+option;Option;44;Geberit;Bagno e Sanitari
+orinatoi-e-pareti-di-separazione;Orinatoi e pareti di separazione;14;Geberit;Bagno e Sanitari
+pe;PE;623;Geberit;Tubazioni e Sistemi di Distribuzione
+piastre-di-azionamento;Piastre Di Azionamento;110;Grohe;Bagno e Sanitari
+placche-comando-e-comandi-per-wc;Placche comando e comandi per WC;147;Geberit;Bagno e Sanitari
+pompe-calore;Pompe Calore;56;Immergas;Condizionamento e Climatizzazione
+pompe-di-calore;Pompe Di Calore;10;Giacomini;Condizionamento e Climatizzazione
+pompe-di-calore-e-ibridi;Pompe Di Calore E Ibridi;98;Ariston;Condizionamento e Climatizzazione
+pp-ht;PP-HT;66;Geberit;Scarico e Fognatura
+prestabo;Prestabo;368;Viega;Tubazioni e Sistemi di Distribuzione
+prodotti-tecnici;Prodotti Tecnici;61;Fimi;Ricambi e Accessori
+profipress;Profipress;437;Viega;Tubazioni e Sistemi di Distribuzione
+profipress-g;Profipress G;210;Viega;Tubazioni e Sistemi di Distribuzione
+profipress-s;Profipress S;69;Viega;Tubazioni e Sistemi di Distribuzione
+project-wind;Project Wind;1282;Tecnosystemi;Ventilazione e Trattamento Aria
+pubblica;Pubblica;9;Geberit;Bagno e Sanitari
+punte-e-inserti;Punte E Inserti;110;Fischer;Fissaggi e Utensili
+pushfit;PushFit;5;Geberit;Tubazioni e Sistemi di Distribuzione
+quickstream;Quickstream;2;Wavin;Scarico e Fognatura
+raccorderia;Raccorderia;133;RBM;Raccorderia e Valvole
+raccordi-a-pressione;Raccordi A Pressione;65;Wavin;Raccorderia e Valvole
+raccordi-a-saldare;Raccordi a Saldare;449;Viega;Raccorderia e Valvole
+raccordi-filettati-bronzo;Raccordi Filettati Bronzo;478;Viega;Raccorderia e Valvole
+raccordi-ottone-e-bronzo;Raccordi Ottone E Bronzo;1251;Effebi;Raccorderia e Valvole
+raccordi-pressfitting;Raccordi Pressfitting;275;Effebi;Raccorderia e Valvole
+raccordi-rame-a-saldare;Raccordi Rame a Saldare;259;Effebi;Raccorderia e Valvole
+raxofix;Raxofix;183;Viega;Tubazioni e Sistemi di Distribuzione
+residenziale;Residenziale;350;Daikin,Toshiba;Condizionamento e Climatizzazione
+residenziale-monosplit;Residenziale Monosplit;39;Haier;Condizionamento e Climatizzazione
+residenziale-multisplit;Residenziale Multisplit;38;Haier;Condizionamento e Climatizzazione
+revive;Revive;13;Haier;Condizionamento e Climatizzazione
+ricambi;Ricambi;1708;Ariston,Effebi,Geberit,Tece;Ricambi e Accessori
+ricambi-e-accessori;Ricambi E Accessori;874;Grohe;Ricambi e Accessori
+riduzione-della-pressione;Riduzione Della Pressione;47;RBM;Raccorderia e Valvole
+riscaldamento;Riscaldamento;2855;Daikin,Ferrari,Haier,Tecnogas;Riscaldamento e Caldaie
+rubinetteria-bagno-e-accessori;Rubinetteria Bagno E Accessori;963;Grohe;Bagno e Sanitari
+rubinetteria-cucina-accessori-e-lavelli;Rubinetteria Cucina, Accessori E Lavelli;369;Grohe;Bagno e Sanitari
+rubinetteria-sanitaria-elettronica;Rubinetteria Sanitaria Elettronica;1;Viega;Bagno e Sanitari
+rubinetteria-speciale;Rubinetteria Speciale;86;Grohe;Bagno e Sanitari
+rubinetterie;Rubinetterie;18;Geberit;Bagno e Sanitari
+rubinetti-a-squadra;Rubinetti A Squadra;12;Grohe;Raccorderia e Valvole
+rubinetti-galleggiante-batterie-scarico;Rubinetti galleggiante batterie scarico;1;Geberit;Scarico e Fognatura
+rubinetti-sfera-acqua;Rubinetti Sfera Acqua;16;Effebi;Raccorderia e Valvole
+samontec;SaMontec;378;Fischer;Fissaggi e Utensili
+sanitherm-ng;Sanitherm Ng;184;Wavin;Riscaldamento e Caldaie
+sanpress;Sanpress;70;Viega;Tubazioni e Sistemi di Distribuzione
+sanpress-inox;Sanpress Inox;371;Viega;Tubazioni e Sistemi di Distribuzione
+sanpress-inox-g;Sanpress Inox G;105;Viega;Tubazioni e Sistemi di Distribuzione
+sanpress-inox-lf;Sanpress Inox LF;14;Viega;Tubazioni e Sistemi di Distribuzione
+satelliti-utenza;Satelliti Utenza;5;RBM;Riscaldamento e Caldaie
+scaldacqua-rinnovabile;Scaldacqua Rinnovabile;66;Ariston;Acqua Calda Sanitaria
+scaldacqua-tradizionali;Scaldacqua Tradizionali;104;Ariston;Acqua Calda Sanitaria
+scarichi-e-sifoni;Scarichi e Sifoni;359;Viega;Scarico e Fognatura
+schiume-e-sigillanti;Schiume E Sigillanti;60;Fischer;Fissaggi e Utensili
+selnova-classic;Selnova Classic;119;Geberit;Bagno e Sanitari
+selnova-premium-collection;Selnova Premium Collection;7;Geberit;Bagno e Sanitari
+service;Service;179;RBM;Ricambi e Accessori
+shower-toilet;Shower Toilet;4;Grohe;Bagno e Sanitari
+showgas;Showgas;112;Tecnosystemi;Ventilazione e Trattamento Aria
+sifoni;Sifoni;37;Valsir;Scarico e Fognatura
+silent-db20;Silent-db20;90;Geberit;Scarico e Fognatura
+silent-pp;Silent-PP;301;Geberit;Scarico e Fognatura
+silent-pro;Silent-Pro;210;Geberit;Scarico e Fognatura
+sist-climatiz-radiante-termoregolazione;Sist.Climatiz. Radiante-Termoregolazione;50;RBM;Riscaldamento e Caldaie
+sist-climatizzaz-aria-trattamento-aria;Sist.Climatizzaz. Aria-Trattamento Aria;184;RBM;Condizionamento e Climatizzazione
+sistema-drenaggio;Sistema Drenaggio;12;Valsir;Scarico e Fognatura
+sistema-hep2o;Sistema Hep2O;72;Wavin;Tubazioni e Sistemi di Distribuzione
+sistema-per-l-igiene-dell-acqua-potabile;Sistema per l'igiene dell'acqua potabile;2;Geberit;Trattamento Acqua
+sistema-scarico;Sistema Scarico;374;Valsir;Scarico e Fognatura
+sistema-vmc;Sistema Vmc;70;Valsir;Ventilazione e Trattamento Aria
+sistemi-adduzione;Sistemi Adduzione;325;Valsir;Tubazioni e Sistemi di Distribuzione
+sistemi-bagno;Sistemi Bagno;25;Valsir;Bagno e Sanitari
+sistemi-cast-in-fissaggi-opera;Sistemi Cast-In Fissaggi Opera;1;Fischer;Fissaggi e Utensili
+sistemi-di-adduzione;Sistemi Di Adduzione;327;Wavin;Tubazioni e Sistemi di Distribuzione
+sistemi-di-calore;Sistemi di Calore;402;Caleffi;Riscaldamento e Caldaie
+sistemi-di-climatizzazione-radiante;Sistemi Di Climatizzazione Radiante;241;Giacomini;Riscaldamento e Caldaie
+sistemi-di-pannelli-radianti;Sistemi di pannelli radianti;55;Geberit;Riscaldamento e Caldaie
+sistemi-di-scarico;Sistemi Di Scarico;901;Wavin;Scarico e Fognatura
+sistemi-di-sciaquo-per-wc-e-orinatoi;Sistemi Di Sciaquo Per Wc E Orinatoi;47;Grohe;Bagno e Sanitari
+sistemi-fognatura;Sistemi Fognatura;32;Valsir;Scarico e Fognatura
+sistemi-gas;Sistemi Gas;1;Valsir;Raccorderia e Valvole
+sistemi-ibridi;Sistemi Ibridi;53;Immergas;Riscaldamento e Caldaie
+sistemi-radianti;Sistemi Radianti;43;Valsir;Riscaldamento e Caldaie
+sistemi-risciacquo;Sistemi Risciacquo;245;Valsir,Viega;Bagno e Sanitari
+sistemi-sanitari;Sistemi Sanitari;242;Tece;Bagno e Sanitari
+smart-clima;Smart Clima;1086;Tecnosystemi;Ventilazione e Trattamento Aria
+smart-d-home;Smart D Home;2;Toshiba;Elettrico e Fotovoltaico
+smartpress;Smartpress;141;Viega;Tubazioni e Sistemi di Distribuzione
+smyle;Smyle;95;Geberit;Bagno e Sanitari
+solar-fix;Solar - Fix;67;Fischer;Fissaggi e Utensili
+solare-termico;Solare Termico;23;Immergas;Riscaldamento e Caldaie
+spa;Spa;209;Grohe;Bagno e Sanitari
+spray;Spray;5;Fischer;Fissaggi e Utensili
+stazione-di-sollevamento;Stazione di Sollevamento;2;Valsir;Scarico e Fognatura
+strutture-idrauliche;Strutture Idrauliche;25;Tece;Tubazioni e Sistemi di Distribuzione
+tecnologia-di-drenaggio;Tecnologia Di Drenaggio;184;Tece;Scarico e Fognatura
+temponox;Temponox;262;Viega;Tubazioni e Sistemi di Distribuzione
+tenuta;Tenuta;112;Fimi;Fissaggi e Utensili
+termoregolazione;Termoregolazione;38;Ariston;Riscaldamento e Caldaie
+termostatici;Termostatici;141;Grohe;Riscaldamento e Caldaie
+toolsplit;Toolsplit;289;Tecnosystemi;Ventilazione e Trattamento Aria
+trattamento-acqua;Trattamento Acqua;61;Fimi;Trattamento Acqua
+trattamento-aria;Trattamento Aria;12;Haier;Ventilazione e Trattamento Aria
+trattamento-aria-e-vmc-residenziale;Trattamento Aria E VMC Residenziale;221;Giacomini;Ventilazione e Trattamento Aria
+trattamento-dell-acqua-chimico;Trattamento Dell'Acqua Chimico;31;RBM;Trattamento Acqua
+trattamento-dell-acqua-fisico;Trattamento Dell'Acqua Fisico;129;RBM;Trattamento Acqua
+trattamento-dell-acqua-magnetico;Trattamento Dell'Acqua Magnetico;96;RBM;Trattamento Acqua
+tubazioni-e-raccorderia;Tubazioni E Raccorderia;618;Giacomini;Tubazioni e Sistemi di Distribuzione
+tubi-di-distribuzione;Tubi Di Distribuzione;638;Tece;Tubazioni e Sistemi di Distribuzione
+utility;Utility;207;Ferrari;Ricambi e Accessori
+valv-componenti-x-rad-contab-indiretta;Valv/Componenti X Rad/Contab.Indiretta;194;Giacomini;Riscaldamento e Caldaie
+valvole-a-sfera-di-ritegno-e-accessori;Valvole A Sfera Di Ritegno E Accessori;54;RBM;Raccorderia e Valvole
+valvole-di-zona;Valvole Di Zona;30;RBM;Raccorderia e Valvole
+valvole-e-rubinetti;Valvole e Rubinetti;8;Geberit;Raccorderia e Valvole
+valvole-e-rubinetti-a-sfera;Valvole E Rubinetti A Sfera;155;Giacomini;Raccorderia e Valvole
+valvole-farfalla;Valvole Farfalla;196;Effebi;Raccorderia e Valvole
+valvole-industriali;Valvole Industriali;651;Effebi;Raccorderia e Valvole
+valvole-motorizzate-elettriche;Valvole Motorizzate Elettriche;114;Effebi;Raccorderia e Valvole
+valvole-motorizzate-pneumatiche;Valvole Motorizzate Pneumatiche;304;Effebi;Raccorderia e Valvole
+valvole-radiatori-controllo-terminale;Valvole Radiatori Controllo Terminale;126;RBM;Riscaldamento e Caldaie
+valvole-sfera-gas;Valvole Sfera Gas;191;Effebi;Raccorderia e Valvole
+valvole-sfera-ottone;Valvole Sfera Ottone;746;Effebi;Raccorderia e Valvole
+varie;Varie;118;Viega;Ricambi e Accessori
+variform;VariForm;29;Geberit;Bagno e Sanitari
+ventilconvettori;Ventilconvettori;19;Immergas;Ventilazione e Trattamento Aria
+viti-legno-e-staffe;Viti Legno E Staffe;13;Fischer;Fissaggi e Utensili
+vmc;Vmc;133;Caleffi;Ventilazione e Trattamento Aria
+volex;Volex;3;Geberit;Tubazioni e Sistemi di Distribuzione
+vrf-vrv-dvm-mrv-multi-v;Vrf - Vrv - Dvm - Mrv - Multi V;109;Daikin,Haier,Toshiba;Condizionamento e Climatizzazione
+xeno;Xeno²;5;Geberit;Bagno e Sanitari

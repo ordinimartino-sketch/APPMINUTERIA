@@ -87,6 +87,18 @@ aggiungiColonna('orders', 'tracciamento_attivo', 'INTEGER NOT NULL DEFAULT 0');
 aggiungiColonna('orders', 'geo_lat_consegna', 'REAL');
 aggiungiColonna('orders', 'geo_lng_consegna', 'REAL');
 
+// Catalogo reale da fornitore (import CSV): unità di misura del prodotto (PZ, MT, ...).
+aggiungiColonna('products', 'unita_misura', "TEXT NOT NULL DEFAULT ''");
+
+// Marca del prodotto: salvata per riferimento interno (riordino, ricerca in vista agente/banco),
+// ma non mostrata nella ricerca/scheda prodotto lato cliente.
+aggiungiColonna('products', 'marca', "TEXT NOT NULL DEFAULT ''");
+
+// "Serie" del CSV fornitore: dettaglio più fine di "categoria" (che ora contiene "Linea",
+// il livello intermedio di navigazione). Conservata per riferimento/ricerca, non usata
+// come livello di navigazione proprio (si è scelta una struttura a due livelli).
+aggiungiColonna('products', 'serie', "TEXT NOT NULL DEFAULT ''");
+
 // Il CHECK sul ruolo nasceva con solo ('cliente','agente'): va riscritto per accettare
 // anche 'distributore'. In SQLite un CHECK si cambia solo ricreando la tabella.
 const usersDdl = db

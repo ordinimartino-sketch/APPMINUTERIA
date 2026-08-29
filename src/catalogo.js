@@ -19,10 +19,10 @@ function cercaProdotti(query, { macroSlug = null, limite = 100 } = {}) {
 
   for (const t of termini) {
     where.push(
-      '(LOWER(p.nome) LIKE ? OR LOWER(p.codice) LIKE ? OR LOWER(IFNULL(p.categoria, \'\')) LIKE ? OR LOWER(IFNULL(m.nome, \'\')) LIKE ?)'
+      '(LOWER(p.nome) LIKE ? OR LOWER(p.codice) LIKE ? OR LOWER(IFNULL(p.categoria, \'\')) LIKE ? OR LOWER(IFNULL(p.serie, \'\')) LIKE ? OR LOWER(IFNULL(m.nome, \'\')) LIKE ?)'
     );
     const like = `%${t}%`;
-    params.push(like, like, like, like);
+    params.push(like, like, like, like, like);
   }
 
   // Chi inizia con il testo digitato viene prima (cercando "valv" prima le "Valvola ...").
